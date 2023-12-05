@@ -1,6 +1,6 @@
-##  -  👋 Hi, Here is Ambrose
-##  -  🤔 A rookie in the IT
-##  -  🤖 But i'm trying
+*  👋 Hi, Here is Ambrose
+*  🤔 A rookie in the IT
+*  🤖 But i'm trying
 
 <!--
 **ambrosecm/ambrosecm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
