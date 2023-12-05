@@ -1,5 +1,5 @@
 *  👋 Hi, Here is Ambrose
-*  🤔 A rookie in the IT
+*  🤔 A rookie in IT
 *  🤖 But i'm trying
 
 <!--
