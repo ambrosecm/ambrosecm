@@ -1,6 +1,5 @@
 *  👋 Hi, Here is Ambrose
-*  🤔 A rookie in IT
-*  🤖 But i'm trying
+*  🔭 https://ambrosecm.github.io/
 
 <!--
 **ambrosecm/ambrosecm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
